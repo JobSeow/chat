@@ -167,15 +167,13 @@ Cost
 ![screenshot](Cost.png)
 
 
-Given the brief analysis above, I went ahead with ChatGPT API service. Since its suitable for general purpose chat services, priced comptitively for certain models and because of my familiarity and trust with it, as i use it on a daily basis
+Decision: Given the brief analysis above, I went ahead with ChatGPT API service. Since its suitable for general purpose chat services, priced comptitively for certain models and because of my familiarity and trust with it, as i use it on a daily basis
 
 
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Backend framework of choice
+- [ ] Frontend framewok of choice
+- [ ] DB choice
+
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
