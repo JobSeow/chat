@@ -164,6 +164,10 @@ Question: Which LLM Model to use?
 | Good for: General purpose chatbots                                                                                                         | Good for: Applications requiring cautious responses and those focused on user safety.                                         | Good for:<br>Multi Modal situations                                                                                   | - Good for: Experimentation and custom deployments                                                                                                                                                     |
 
 Cost
+![screenshot](Cost.png)
+
+
+Given the brief analysis above, I went ahead with ChatGPT API service. Since its suitable for general purpose chat services, priced comptitively for certain models and because of my familiarity and trust with it, as i use it on a daily basis
 
 
 - [x] Add back to top links
