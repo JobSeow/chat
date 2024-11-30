@@ -163,8 +163,8 @@ Question: Which LLM Model to use?
 | - **Strengths**: High language fluency, pre-trained knowledge, API support.<br>- **Cons**: Usage costs and limited fine-tuning options<br> | - **Strengths**: Emphasizes safe and ethical outputs, good at reasoning.<br>- **Cons**: Limited fine-tuning capabilities.<br> | - Strengths:<br>Gemini can process and generate both text and images<br>- **Cons**: Limited fine-tuning capabilities. | - **Strengths**: Community-supported, open-source, a large variety of pre-trained models.<br><br>- **Cons**: Deployment can be resource-intensive, and some models may require additional fine-tuning. |
 | Good for: General purpose chatbots                                                                                                         | Good for: Applications requiring cautious responses and those focused on user safety.                                         | Good for:<br>Multi Modal situations                                                                                   | - Good for: Experimentation and custom deployments                                                                                                                                                     |
 
-Cost
-![screenshot](Cost.png)
+Cost:
+![screenshot](public/Cost.png)
 
 
 Decision: Given the brief analysis above, I went ahead with ChatGPT API service. Since its suitable for general purpose chat services, priced comptitively for certain models and because of my familiarity and trust with it, as i use it on a daily basis
